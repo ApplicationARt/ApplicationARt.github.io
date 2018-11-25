@@ -1,6 +1,6 @@
 ## Welcome to ApplicationARt
 
-<video src="https://youtu.be/fv8MBhCk668" width="320" height="200" controls preload></video>
+[![FSE Demo Project](maxresdefault.jpg)](https://youtu.be/fv8MBhCk668 "FSE VIDEO")
 
 
 ### Markdown
