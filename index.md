@@ -1,4 +1,4 @@
-## Welcome to ApplicationARt
+## Welcome to ARt
 
 [![FSE Demo Project](maxresdefault.jpg)](https://youtu.be/fv8MBhCk668 "FSE VIDEO")
 
