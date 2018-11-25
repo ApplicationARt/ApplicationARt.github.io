@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to ApplicationARt
 
-You can use the [editor on GitHub](https://github.com/ApplicationARt/ApplicationARt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<video src="https://youtu.be/fv8MBhCk668" width="320" height="200" controls preload></video>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
