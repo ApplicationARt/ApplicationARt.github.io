@@ -2,35 +2,26 @@
 
 [![FSE Demo Project](maxresdefault.jpg)](https://youtu.be/fv8MBhCk668 "FSE VIDEO")
 
+### What is our product?
 
-### Markdown
+Our product is an AR app that focuses on helping digital artist bring their creations to the physical world. Much like how Pokemon GO has shown that AR technology can pioneer new ways we explore our cities, our app will let users explore a community of artists sharing their creations in the real world. Our product is an augmented reality platform which allows users to share their drawings at real locations for other users to see.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Features implemented for MVP 1
+1. AR Object placement
+  Currently, the placement of the AR object does not offer simultaneous horizontal and vertical placement. The user can only choose from    the start to either use horizontal or vertical placement.
+2. Basic UI implementation
+  Includes a Main Menu: An interface where the user can start the app or quit it. Options are not implemented yet. Account and art          uploading is still not available.
+3. Prompt user placement: Asks the user if the image will be placed horizontally or vertically. Basically, if the image will be place on    a “floor” or on a “wall” 
+    Android build support
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Team Memebers
 
-- Bulleted
-- List
+Matthew researched and convey the AR Core library features to Jackie and Miguel. He wrote the prototype scripts that were used for the AR demo. The functionality of the scripts include plane detection, image to anchor adjustment, and vertical or horizontal plane detect. 
 
-1. Numbered
-2. List
+Jackie was responsible for creating a UI and setting up buttons for the application. He acted as the middle man for communication between UI and AR development, and helped to revise scripts created by Matthew. 
 
-**Bold** and _Italic_ and `Code` text
+Miguel aided in the development problems that arose while creating the UI. He also took part in the research of which AR library to use for development, and was reaching out to customers on both tempe and west campus.
 
-[Link](url) and ![Image](src)
-```
+Kenny reached out to potential customers through surveys and tried to get feedback. He also met with customers on polytechnic campus, as we were unable to go there due to time constraints.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ApplicationARt/ApplicationARt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
