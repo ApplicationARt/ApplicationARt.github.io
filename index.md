@@ -1,10 +1,11 @@
-## Welcome to ARt
+## Welcome to ARt 
 
 [![FSE Demo Project](maxresdefault.jpg)](https://youtu.be/fv8MBhCk668 "FSE VIDEO")
 
 ### What is our product?
 
 Our product is an AR app that focuses on helping digital artist bring their creations to the physical world. Much like how Pokemon GO has shown that AR technology can pioneer new ways we explore our cities, our app will let users explore a community of artists sharing their creations in the real world. Our product is an augmented reality platform which allows users to share their drawings at real locations for other users to see.
+
 
 ### Features implemented for MVP 1
 1. AR Object placement
@@ -25,3 +26,4 @@ Miguel aided in the development problems that arose while creating the UI. He al
 
 Kenny reached out to potential customers through surveys and tried to get feedback. He also met with customers on polytechnic campus, as we were unable to go there due to time constraints.
 
+[![LOGO](logo1.JPG)]
