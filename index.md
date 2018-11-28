@@ -35,19 +35,19 @@ We have completed our MVP-1 and will launch our MVP-2 with features such as cust
 ### Sample Images
 Scripting code where we attempted to implement some user adjustment flexibility. It offers the option to pinch for zooming in and out as well as rotating the object.
 
-[![LOGO](groundPlace.png)]
+![LOGO](groundPlace.png)
 
 An example of what the plane detect would look like through the AR interface. A grid of points will appear and tapping will let the user place the object.
 
-[![LOGO](verticalWall.png)]
+![LOGO](verticalWall.png)
 
 An example of an AR object appearing through the phone’s screen, and how it fits into the background as if it were real.
 
-[![LOGO](person1.png)]
+![LOGO](person1.png)
 
 ### Contact Us
 
 Direct email to one of our engineers.
 mdpham@asu.edu
 
-[![LOGO](logo1.JPG)]
+![LOGO](logo1.JPG)
