@@ -6,6 +6,10 @@
 
 Our product is an AR app that focuses on helping digital artist bring their creations to the physical world. Much like how Pokemon GO has shown that AR technology can pioneer new ways we explore our cities, our app will let users explore a community of artists sharing their creations in the real world. Our product is an augmented reality platform which allows users to share their drawings at real locations for other users to see.
 
+This is a link to our application to the Google Play Store
+[https://play.google.com/store/apps/details?id=com.NotMatt.ARt](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
+
+
 ### FAQ 
 #### What Features have been implemented for MVP 1
 1. AR Object placement
