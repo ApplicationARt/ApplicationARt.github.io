@@ -65,6 +65,7 @@ Someone placing an object indoors.
 ### Contact Us
 
 If you would like to get in touch with us, please use the email for one of our engineers.
-[mdpham@asu.edu](mdpham@asu.edu)
+
+mdpham@asu.edu
 
 ![LOGO](logo1.JPG)
