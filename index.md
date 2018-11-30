@@ -23,7 +23,7 @@ This is a link to our application to the Google Play Store
   Allows users to register and sign in with Google Firebase.  
 2. Custom Image selection
   Allow users to upload their images from their phone gallery to the selected image.
- #### What are possible other added features?
+#### Other Possible Features
  1. Stability and bug fixes for AR engine.
 
 
