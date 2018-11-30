@@ -4,6 +4,7 @@
 This is our basic MVP 1 with the core AR placement feature.
 
 [![FSE Demo Project](hqdefault.jpg)](https://www.youtube.com/watch?v=VqUwSwHGTkI "FSE VIDEO")
+
 This is our MVP 2 with login and custom image selection.
 
 
