@@ -3,8 +3,8 @@
 [![FSE Demo Project](maxresdefault.jpg)](https://youtu.be/fv8MBhCk668 "FSE VIDEO")
 This is our basic MVP 1 with the core AR feature.
 
-[![FSE Demo Project](hqdefault.jpg)](https://www.youtube.com/watch?v=VqUwSwHGTkI "FSE VIDEO")
 This is our MVP 2 with login and custom image selection.
+
 
 ### What is our product?
 
@@ -72,8 +72,8 @@ Someone placing an object indoors.
 
 ### Contact Us
 
-If you would like to get in touch with us, please use the email for one of our engineers.
+If you would like to get in touch with us, please use the email for one of our engineers at mdpham
 
-mdpham@asu.edu
+[Or you can fill at this form](https://applicationart.github.io/contact)
 
 ![LOGO](logo1.JPG)
