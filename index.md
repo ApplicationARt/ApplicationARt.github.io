@@ -1,6 +1,10 @@
 ## Welcome to ARt 
 
 [![FSE Demo Project](maxresdefault.jpg)](https://youtu.be/fv8MBhCk668 "FSE VIDEO")
+This is our basic MVP 1 with the core AR feature.
+
+[![FSE Demo Project](hqdefault.jpg)](https://www.youtube.com/watch?v=VqUwSwHGTkI "FSE VIDEO")
+This is our MVP 2 with login and custom image selection.
 
 ### What is our product?
 
@@ -13,22 +17,22 @@ This is a link to our application to the Google Play Store
 ### FAQ 
 
 #### Does this app support my phone?
-1. Phones with ARcore support can be listed here. https://developers.google.com/ar/discover/supported-devices
-2. If your phone is not supported, the app will not work for you.
+* Phones with ARcore support can be listed here. https://developers.google.com/ar/discover/supported-devices
+* If your phone is not supported, the app will not work for you.
 #### What Features have been implemented for MVP 1
-1. AR Object placement 
+* AR Object placement 
 Currently, the placement of the AR object does not offer simultaneous horizontal and vertical placement. The user can only choose from the start to either use horizontal or vertical placement.
-2. Basic UI implementation 
+* Basic UI implementation 
 Includes a Main Menu: An interface where the user can start the app or quit it. Options are not implemented yet. Account and art uploading is still not available.
-3. Prompt user placement: 
+* Prompt user placement: 
 Asks the user if the image will be placed horizontally or vertically. Basically, if the image will be place on  a “floor” or on a “wall” Android build support
 #### What Features have been implemented for MVP 2
-1. Firebase authentication 
+*  Firebase authentication 
 Allows users to register and sign in with Google Firebase.  
-2. Custom Image selection
+* Custom Image selection
 Allow users to upload their images from their phone gallery to the selected image.
 #### Other Possible Features
-1. Stability and bug fixes for AR engine.
+* Stability and bug fixes for AR engine.
 
 
 ### About Us
