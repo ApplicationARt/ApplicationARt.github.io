@@ -1,5 +1,7 @@
 ## Welcome to ARt 
-![LOGO](logo1.JPG)
+<p align="center">
+  <img ![LOGO](logo1.JPG)/>
+</p>
 
 This is a link to our application to the [Google Play Store](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
 
