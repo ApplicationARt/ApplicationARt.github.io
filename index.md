@@ -2,7 +2,7 @@
 
 ![LOGO](logo1.JPG)
 
-[FAQ](#FAQ)  [About](#About&nbspUs)
+[FAQ](#FAQ)  [About](#About)  [Product/Services](#Product/Services)  [Contact](#Contact)
 
 This is a link to our application to the [Google Play Store](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
 
@@ -37,7 +37,7 @@ Allow users to upload their images from their phone gallery to the selected imag
 
 * Stability and bug fixes for AR engine.
 
-### About&nbspUs
+### About
 We have recently launched the AR application to the Google Play Store. 
 
 Matthew researched and convey the AR Core library features to Jackie and Miguel. He wrote the prototype scripts that were used for the AR demo. The functionality of the scripts include plane detection, image to anchor adjustment, and vertical or horizontal plane detect. 
@@ -81,7 +81,7 @@ An example of an AR object appearing through the phone’s screen, and how it fi
 
 Someone placing an object indoors.
 
-### Contact Us
+### Contact
 
 If you would like to get in touch with us, please use the email for one of our engineers at mdpham@asu.edu
 
