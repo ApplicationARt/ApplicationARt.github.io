@@ -1,16 +1,19 @@
 ## Welcome to ARt 
-![LOGO](logo1.JPG?style=centerme)
-
-[Contact](### Contact Us)
+<p align="center">
+  ![LOGO](logo1.JPG?style=centerme)
+	<a href="https://applicationart.github.io/contact">Contact Us</a>&nbsp;&nbsp;&nbsp;
+  [FAQ](#faq) <br/>
+  [About](#about) <br/>
+  [Product](#product) <br/>
+</p>
 
 This is a link to our application to the [Google Play Store](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
 
 ### What is our product?
-
 Our product is an AR app that focuses on helping digital artist bring their creations to the physical world. Much like how Pokemon GO has shown that AR technology can pioneer new ways we explore our cities, our app will let users explore a community of artists sharing their creations in the real world. Our product is an augmented reality platform which allows users to share their drawings at real locations for other users to see.
 
 ### FAQ 
-
+#faq
 #### Does this app support my phone?
 
 * Phones with ARcore support can be listed here. https://developers.google.com/ar/discover/supported-devices
@@ -37,6 +40,7 @@ Allow users to upload their images from their phone gallery to the selected imag
 * Stability and bug fixes for AR engine.
 
 ### About Us
+#about
 We have recently launched the AR application to the Google Play Store. 
 
 Matthew researched and convey the AR Core library features to Jackie and Miguel. He wrote the prototype scripts that were used for the AR demo. The functionality of the scripts include plane detection, image to anchor adjustment, and vertical or horizontal plane detect. 
@@ -55,6 +59,7 @@ We have completed our MVP-1 and will launch our MVP-2 with features such as cust
 
 
 ### Product/Services
+#product
 This shows off some of our application features.
 
 [![FSE Demo Project](maxresdefault.jpg)](https://youtu.be/fv8MBhCk668 "FSE VIDEO")
