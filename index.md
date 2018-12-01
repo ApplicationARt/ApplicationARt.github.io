@@ -4,14 +4,6 @@
 
 This is a link to our application to the [Google Play Store](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
 
-[![FSE Demo Project](maxresdefault.jpg)](https://youtu.be/fv8MBhCk668 "FSE VIDEO")
-This is our basic MVP 1 with the core AR placement feature.
-
-[![FSE Demo Project](hqdefault.jpg)](https://www.youtube.com/watch?v=VqUwSwHGTkI "FSE VIDEO")
-
-This is our MVP 2 with login and custom image selection.
-
-
 ### What is our product?
 
 Our product is an AR app that focuses on helping digital artist bring their creations to the physical world. Much like how Pokemon GO has shown that AR technology can pioneer new ways we explore our cities, our app will let users explore a community of artists sharing their creations in the real world. Our product is an augmented reality platform which allows users to share their drawings at real locations for other users to see.
@@ -43,7 +35,6 @@ Allow users to upload their images from their phone gallery to the selected imag
 
 * Stability and bug fixes for AR engine.
 
-
 ### About Us
 We have recently launched the AR application to the Google Play Store. 
 
@@ -55,7 +46,6 @@ Miguel aided in the development problems that arose while creating the UI. He al
 
 Kenny reached out to potential customers through surveys and tried to get feedback. He also met with customers on polytechnic campus, as we were unable to go there due to time constraints.
 
-
 Our team will provide an AR application which will allow for customizable picture placement in the real world through Augmented Reality. This is our first Android app which will be avaliable in the Google Play Store. We formed this product in order to explore the possibilities of what could be done with current AR technology. ARcore is Google's solution to making AR accessible to everyone through your android phone. Our product will be powered by Google's ARcore Engine. Our product is built off of the Unity Engine.
 
 We wanted a way for people to see their uploaded digital artwork in the real world. See the contact us section to get in contact with a team member.
@@ -66,9 +56,16 @@ We have completed our MVP-1 and will launch our MVP-2 with features such as cust
 ### Product/Services
 This shows off some of our application features.
 
-This is a link to our application to the [Google Play Store](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
+[![FSE Demo Project](maxresdefault.jpg)](https://youtu.be/fv8MBhCk668 "FSE VIDEO")
+This is our basic MVP 1 with the core AR placement feature.
+
+[![FSE Demo Project](hqdefault.jpg)](https://www.youtube.com/watch?v=VqUwSwHGTkI "FSE VIDEO")
+
+This is our MVP 2 with login and custom image selection.
 
 [![GooglePlayLink](ARtGooglePlay.PNG)](https://play.google.com/store/apps/details?id=com.NotMatt.ARt "GooglePlayStore")
+
+This is a link to our application to the [Google Play Store](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
 
 ![LOGO](groundPlace.png)
 
