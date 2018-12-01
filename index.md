@@ -2,14 +2,14 @@
 
 1. [FAQ](#FAQ)  
 2. [About](#About)  
-3. [Product/Services](#Product/Services) 
+3. [Product](#Product) 
 4. [Contact](#Contact)
 
 ![LOGO](logo1.JPG)
 
 This is a link to our application to the [Google Play Store](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
 
-### What is our product?
+### What is ARt?
 
 Our product is an AR app that focuses on helping digital artist bring their creations to the physical world. Much like how Pokemon GO has shown that AR technology can pioneer new ways we explore our cities, our app will let users explore a community of artists sharing their creations in the real world. Our product is an augmented reality platform which allows users to share their drawings at real locations for other users to see.
 
@@ -58,7 +58,7 @@ We wanted a way for people to see their uploaded digital artwork in the real wor
 We have completed our MVP-1 and will launch our MVP-2 with features such as custom image selection and user login.
 
 
-### Product/Services
+### Product
 This shows off some of our application features.
 
 [![FSE Demo Project](maxresdefault.jpg)](https://youtu.be/fv8MBhCk668 "FSE VIDEO")
