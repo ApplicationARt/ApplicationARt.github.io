@@ -1,8 +1,11 @@
 ## Welcome to ARt 
 
-![LOGO](logo1.JPG)
+1. [FAQ](#FAQ)  
+2. [About](#About)  
+3. [Product/Services](#Product/Services) 
+4. [Contact](#Contact)
 
-[FAQ](#FAQ)  [About](#About)  [Product/Services](#Product/Services)  [Contact](#Contact)
+![LOGO](logo1.JPG)
 
 This is a link to our application to the [Google Play Store](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
 
