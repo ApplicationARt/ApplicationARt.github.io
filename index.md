@@ -1,6 +1,8 @@
 ## Welcome to ARt 
+
+
 <p align="center">
-  ![LOGO](logo1.JPG?style=centerme)
+  ![LOGO](logo1.JPG)
 	<a href="https://applicationart.github.io/contact">Contact Us</a>&nbsp;&nbsp;&nbsp;
   [FAQ](#faq) <br/>
   [About](#about) <br/>
