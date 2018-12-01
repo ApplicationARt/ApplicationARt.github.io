@@ -67,6 +67,8 @@ This shows off some of our application features.
 
 This is a link to our application to the [Google Play Store](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
 
+[![GooglePlayLink](ARtGooglePlay.PNG)](https://play.google.com/store/apps/details?id=com.NotMatt.ARt "GooglePlayStore")
+
 ![LOGO](groundPlace.png)
 
 An example of what the plane detect would look like through the AR interface. A grid of points will appear and tapping will let the user place the object.
@@ -84,9 +86,6 @@ Someone placing an object indoors.
 If you would like to get in touch with us, please use the email for one of our engineers at mdpham@asu.edu
 
 [Or you can fill at this contact form](https://applicationart.github.io/contact)
-
-
-[![GooglePlayLink](ARtGooglePlay.PNG)](https://play.google.com/store/apps/details?id=com.NotMatt.ARt "GooglePlayStore")
 
 
 
