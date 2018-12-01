@@ -74,7 +74,7 @@ Someone placing an object indoors.
 
 ### Contact Us
 
-If you would like to get in touch with us, please use the email for one of our engineers at mdpham
+If you would like to get in touch with us, please use the email for one of our engineers at mdpham@asu.edu
 
-[Or you can fill at this form](https://applicationart.github.io/contact)
+[Or you can fill at this contact form](https://applicationart.github.io/contact)
 
