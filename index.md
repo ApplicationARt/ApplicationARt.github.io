@@ -2,6 +2,8 @@
 
 ![LOGO](logo1.JPG)
 
+[FAQ](#FAQ)  [About](#About Us)
+
 This is a link to our application to the [Google Play Store](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
 
 ### What is our product?
