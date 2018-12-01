@@ -4,7 +4,7 @@
 
 This is a link to our application to the [Google Play Store](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
 
-1. [FAQ](#https://applicationart.github.io#FAQ)  
+1. [FAQ](https://applicationart.github.io#FAQ)  
 2. [About](#About)  
 3. [Product](#Product) 
 4. [Contact](#Contact)
