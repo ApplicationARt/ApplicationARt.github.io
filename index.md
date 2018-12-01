@@ -4,12 +4,6 @@
 
 This is a link to our application to the [Google Play Store](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
 
-1. [FAQ](https://applicationart.github.io#FAQ)  
-2. [About](#About)  
-3. [Product](#Product) 
-4. [Contact](#Contact)
-
-
 ### What is ARt?
 
 Our product is an AR app that focuses on helping digital artist bring their creations to the physical world. Much like how Pokemon GO has shown that AR technology can pioneer new ways we explore our cities, our app will let users explore a community of artists sharing their creations in the real world. Our product is an augmented reality platform which allows users to share their drawings at real locations for other users to see.
