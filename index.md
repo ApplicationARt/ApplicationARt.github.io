@@ -12,7 +12,7 @@ Our product is an AR app that focuses on helping digital artist bring their crea
 
 #### Does this app support my phone?
 
-* Phones with ARcore support can be listed here. https://developers.google.com/ar/discover/supported-devices
+* Phones with ARcore support can be listed [here.](https://developers.google.com/ar/discover/supported-devices)
 * If your phone is not supported, the app will not work for you.
 
 #### What Features have been implemented for MVP 1
