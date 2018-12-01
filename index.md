@@ -1,5 +1,6 @@
 ## Welcome to ARt 
 ![LOGO](logo1.JPG)
+
 This is a link to our application to the [Google Play Store](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
 
 [![FSE Demo Project](maxresdefault.jpg)](https://youtu.be/fv8MBhCk668 "FSE VIDEO")
@@ -56,6 +57,7 @@ We have completed our MVP-1 and will launch our MVP-2 with features such as cust
 
 ### Product/Services
 This shows off some of our application features.
+
 This is a link to our application to the [Google Play Store](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
 
 ![LOGO](groundPlace.png)
