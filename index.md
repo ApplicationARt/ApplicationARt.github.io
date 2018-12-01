@@ -1,4 +1,6 @@
 ## Welcome to ARt 
+![LOGO](logo1.JPG)
+This is a link to our application to the [Google Play Store](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
 
 [![FSE Demo Project](maxresdefault.jpg)](https://youtu.be/fv8MBhCk668 "FSE VIDEO")
 This is our basic MVP 1 with the core AR placement feature.
@@ -11,10 +13,6 @@ This is our MVP 2 with login and custom image selection.
 ### What is our product?
 
 Our product is an AR app that focuses on helping digital artist bring their creations to the physical world. Much like how Pokemon GO has shown that AR technology can pioneer new ways we explore our cities, our app will let users explore a community of artists sharing their creations in the real world. Our product is an augmented reality platform which allows users to share their drawings at real locations for other users to see.
-
-This is a link to our application to the Google Play Store
-[https://play.google.com/store/apps/details?id=com.NotMatt.ARt](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
-
 
 ### FAQ 
 
@@ -58,7 +56,7 @@ We have completed our MVP-1 and will launch our MVP-2 with features such as cust
 
 ### Product/Services
 This shows off some of our application features.
-
+This is a link to our application to the [Google Play Store](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
 
 ![LOGO](groundPlace.png)
 
@@ -78,4 +76,3 @@ If you would like to get in touch with us, please use the email for one of our e
 
 [Or you can fill at this form](https://applicationart.github.io/contact)
 
-![LOGO](logo1.JPG)
