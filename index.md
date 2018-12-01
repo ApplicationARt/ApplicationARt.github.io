@@ -85,3 +85,8 @@ If you would like to get in touch with us, please use the email for one of our e
 
 [Or you can fill at this contact form](https://applicationart.github.io/contact)
 
+
+[![GooglePlayLink](ARtGooglePlay.PNG)](https://play.google.com/store/apps/details?id=com.NotMatt.ARt "GooglePlayStore")
+
+
+
