@@ -1,13 +1,14 @@
 ## Welcome to ARt 
 
+![LOGO](logo1.JPG)
+
+This is a link to our application to the [Google Play Store](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
+
 1. [FAQ](#FAQ)  
 2. [About](#About)  
 3. [Product](#Product) 
 4. [Contact](#Contact)
 
-![LOGO](logo1.JPG)
-
-This is a link to our application to the [Google Play Store](https://play.google.com/store/apps/details?id=com.NotMatt.ARt)
 
 ### What is ARt?
 
