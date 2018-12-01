@@ -37,7 +37,7 @@ Allow users to upload their images from their phone gallery to the selected imag
 
 * Stability and bug fixes for AR engine.
 
-### About Us
+### About&nbspUs
 We have recently launched the AR application to the Google Play Store. 
 
 Matthew researched and convey the AR Core library features to Jackie and Miguel. He wrote the prototype scripts that were used for the AR demo. The functionality of the scripts include plane detection, image to anchor adjustment, and vertical or horizontal plane detect. 
